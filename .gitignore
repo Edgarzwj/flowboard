@@ -1,0 +1,12 @@
+# Secrets / tokens must never be committed
+.ghtoken
+*.token
+
+# Local scratch / build artifacts
+wb_check.js
+*.log
+.DS_Store
+
+# Editor / OS
+.idea/
+.vscode/
