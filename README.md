@@ -1,1 +1,112 @@
-IyBGbG93Qm9hcmQgwrcg5Y2V5paH5Lu25Y2P5L2c55m95p2/Cgo+IOS4gOS4qiAqKumbtuS+nei1luOAgeWNleaWh+S7tuOAgeWPr+ebtOaOpeWPjOWHu+aJk+W8gCoqIOeahCBNaXJvIOmjjuagvOaXoOmZkOeUu+W4g+eZveadv+OAguWOn+eUnyBIVE1MICsgQ1NTICsgSmF2YVNjcmlwdO+8iENhbnZhcyAyRO+8ie+8jOaXoOS7u+S9leaehOW7uuatpemqpOOAgeaXoOesrOS4ieaWueW6k++8jOenu+WKqOerr+S4juahjOmdouerr+mAmueUqOOAggoKW0VuZ2xpc2ggZG9jdW1lbnRhdGlvbiDihpIgUkVBRE1FLmVuLm1kXSguL1JFQURNRS5lbi5tZCkKCi0tLQoKIyMg4pyoIOeJueaApwoKfCDnsbvliKsgfCDog73lipsgfAp8IC0tLSB8IC0tLSB8CnwgKirnlLvluIMqKiB8IOaXoOmZkOeUu+W4g+OAgeW5s+enu++8iOaLluaLvSAvIOepuuagvCAvIOaKk+aJi++8ieOAgea7mui9ruS4juWPjOaMh+e8qeaUvuOAgeiHqumAguW6lOe9keagvOOAgeWwj+WcsOWbvuWvvOiIqiB8CnwgKirkvr/nrb4qKiB8IOS4gOmUrua3u+WKoOOAgeWPjOWHu+e8lui+keOAgeaLluaLveenu+WKqOOAgeWFq+WQkeaJi+afhOe8qeaUvuOAgTYg56eN6YWN6ImyIHwKfCAqKue7mOWbvioqIHwg6Ieq55Sx55S756yU77yINiDoibIgKyDoh6rlrprkuYnlj5boibIgKyDnspfnu4bosIPoioLvvInjgIHmqaHnmq7mk6bvvIjngrnmjIkgLyDmi5bmi73mk6bpmaTvvIkgfAp8ICoq5Zu+5b2iKiogfCDnn6nlvaIgLyDmpK3lnIblt6XlhbfvvIzmlK/mjIHmj4/ovrnkuI7loavlhYXliIfmjaLvvIzkuI7kvr/nrb7lhbHnlKjpgInmi6kgLyDnvKnmlL7kvZPns7sgfAp8ICoq6L+e57q/KiogfCDkvr/nrb7kuYvpl7Toh6rnlLHov57nur/vvIzoh6rliqjotLTovrnplJrngrkgKyDnrq3lpLTvvJsqKuato+S6pOW4g+e6v+iHquWKqOe7leW8gOWbvuW9oumanOeijSoq77yIQSog56iA55aP572R5qC8ICsg6L2s5byv5oOp572a77yJIHwKfCAqKuaSpOmUgC/ph43lgZoqKiB8IOWujOaVtOWOhuWPsuagiO+8iDEyMCDmraXvvInvvIxgQ3RybCtaYCAvIGBDdHJsK1NoaWZ0K1pg77yM5oyJ6ZKu5bim56aB55So5oCBIHwKfCAqKuWvvOWHuiAvIOWvvOWFpSoqIHwg5a+85Ye6ICoqUE5HKirvvIgyw5cg6auY5riF77yJ44CBKipTVkcqKu+8iOefoumHj++8ieOAgSoq6KeE6IyDIEpTT04qKu+8iOWdkOagh+mHj+WMlsK36ZSu5bqP5Zu65a6awrfmjIkgaWQg5o6S5bqPwrflj68gZ2l0IGRpZmYgLyDlj6/lk4jluIzvvInvvJvlr7zlhaUgSlNPTiDmgaLlpI3lt6XnqIsgfAp8ICoq5oyB5LmF5YyWKiogfCDoh6rliqjkv53lrZjliLDmtY/op4jlmaggYGxvY2FsU3RvcmFnZWDvvIjpmLLmipYgNDAwbXPvvInvvIzliLfmlrDkuI3kuKLlpLEgfAp8ICoq5Y+v6aqM6K+B5oCnKiogfCDlhoXnva4gYHdpbmRvdy5fX3QuX19zZWxmdGVzdCgpYO+8muagoemqjOWdkOagh+WPmOaNouW+gOi/lOOAgeW6j+WIl+WMluW5guetieOAgeWvvOWHuuKGkuWvvOWFpeS4gOiHtOOAgei/nue6v+mBv+manO+8jOWPr+WcqOaXoOa1j+iniOWZqOeOr+Wig+S4i+i3kemAmiB8CgotLS0KCiMjIPCfmoAg5b+r6YCf5byA5aeLCgotICoq5pa55byP5LiA77yI5pyA566A77yJKirvvJrnm7TmjqXlj4zlh7sgYGluZGV4Lmh0bWxgIOeUqOa1j+iniOWZqOaJk+W8gOWNs+WPr+S9v+eUqOOAggotICoq5pa55byP5LqM77yI5Zyo57q/77yJKirvvJrlvIDlkK8gR2l0SHViIFBhZ2VzIOWQjuiuv+mXriBgaHR0cHM6Ly9lZGdhcnp3ai5naXRodWIuaW8vZmxvd2JvYXJkL2DjgIIKLSDmiYDmnInmlbDmja7pu5jorqTlj6rkv53lrZjlnKjkvaDmnKzlnLDmtY/op4jlmajvvIwqKuS4jeS8muS4iuS8oOS7u+S9leacjeWKoeWZqCoq44CCCgotLS0KCiMjIOKMqO+4jyDlv6vmjbfplK4KCnwg5oyJ6ZSuIHwg5Yqf6IO9IHwg5oyJ6ZSuIHwg5Yqf6IO9IHwKfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfAp8IGBWYCB8IOmAieaLqSB8IGBIYCB8IOaKk+aJi+W5s+enuyB8CnwgYE5gIHwg5L6/562+IHwgYFBgIHwg55S756yUIHwKfCBgRWAgfCDmqaHnmq7mk6YgfCBgQ2AgfCDov57nur8gfAp8IGBSYCB8IOefqeW9oiB8IGBPYCB8IOakreWchiB8CnwgYFNwYWNlYCB8IOS4tOaXtuW5s+enuyB8IGBEZWxldGVgIC8gYEJhY2tzcGFjZWAgfCDliKDpmaTpgInkuK0gfAp8IGBDdHJsK1pgIHwg5pKk6ZSAIHwgYEN0cmwrU2hpZnQrWmAgLyBgQ3RybCtZYCB8IOmHjeWBmiB8Cnwg5Y+M5Ye7IHwg57yW6L6R5L6/562+IHwg5Y+z6ZSuIC8g6ZW/5oyJIHwg5Yig6Zmk5a+56LGhIHwKCioq6Kem5o6nKirvvJrljZXmjIfmi5bmi73lubPnp7vvvIzlj4zmjIfmjY/lkIjnvKnmlL7vvIzplb/mjInlr7nosaHliKDpmaTvvIzlj4zlh7vkvr/nrb7nvJbovpHjgIIKCi0tLQoKIyMg8J+TgSDpobnnm67nu5PmnoQKCmBgYApmbG93Ym9hcmQvCuKUnOKUgOKUgCBpbmRleC5odG1sICAgICAjIOWFqOmDqOS7o+egge+8iEhUTUwrQ1NTK0pTIOWNleaWh+S7tu+8iQrilJzilIDilIAgUkVBRE1FLm1kICAgICAgIyDkuK3mlofmlofmoaPvvIjmnKzmlofku7bvvIkK4pSc4pSA4pSAIFJFQURNRS5lbi5tZCAgICMgRW5nbGlzaCBkb2N1bWVudGF0aW9uCuKUnOKUgOKUgCBMSUNFTlNFICAgICAgICAjIE1JVCBMaWNlbnNlCuKUlOKUgOKUgCAuZ2l0aWdub3JlICAgICAjIOW/veeVpeS7pOeJjOS4juacrOWcsOS6p+eJqQpgYGAKCi0tLQoKIyMg8J+SoSDorr7orqHmgJ3ot6/vvJrlgJ/pibTkuI7liJvmlrAKCuaIkeS7rOWcqOWKqOaJi+WJjeiwg+eglOS6huS4ieexu+aIkOeGn+W8gOa6kOaWueahiO+8jOWQuOaUtuWFtuS8mOeCue+8jOWGjemSiOWvueKAnOWNleaWh+S7tuOAgeWPr+enu+akjeOAgeenu+WKqOS8mOWFiOKAneWBmuWPluiIjeS4juWIm+aWsO+8mgoKKirlgJ/pibTvvIjlkLjmlLblhbHmgKfog73lipvvvIkqKgotIOWPguiAgyAqKkV4Y2FsaWRyYXcqKu+8iE1JVO+8jOaJi+e7mOmjju+8ie+8muWvvOWHuiBQTkcgLyBTVkcgLyBKU09O44CB5pKk6ZSA6YeN5YGa44CB5pys5Zyw5LyY5YWI55qE5bel5L2c5rWB44CCCi0g5Y+C6ICDICoqdGxkcmF3KirvvIhBcGFjaGUtMi4w77yJ77ya5pm66IO96L+e57q/6ZSa54K544CB57yp5pS+5omL5p+E44CB5bCP5Zyw5Zu+5a+86Iiq44CCCi0g5Y+C6ICDICoqdGlueV93aGl0ZWJvYXJkKirvvIh2YW5pbGxh77yMfjI5M+KYhe+8ieWPiiAqKmRyYXdtZSAvIEtodXNoYWwtTWUqKu+8mumbtuS+nei1lueahOS+v+etviArIOeUu+eslCArIOaSpOmUgC/ph43lgZogKyDkuIvovb3lrp7njrDvvIzpqozor4HkuobigJznuq/liY3nq6/kuZ/og73lgZrlrozmlbTnmb3mnb/igJ3jgIIKCioq5Yib5paw77yI5oiR5Lus55qE5Y+W6IiN5LiO5aKe5by677yJKioKMS4gKirnnJ/mraPljZXmlofku7bjgIHpm7bkvp3otZYqKu+8muaKiiBDYW52YXMg5riy5p+T44CB5peg6ZmQ5Z2Q5qCH5Y+Y5o2i44CBUG9pbnRlciBFdmVudHMg57uf5LiA6L6T5YWl44CBbG9jYWxTdG9yYWdlIOiHquWKqOWtmOaho+WFqOmDqOWhnui/m+S4gOS4qiBgaW5kZXguaHRtbGDvvIzlj6/ku7vmhI/mi7fotJ3jgIHnprvnur/kvb/nlKjvvIzml6DmnoTlu7rml6AgQ0RO44CCCjIuICoq56e75Yqo56uv5LyY5YWIKirvvJrnu5/kuIAgUG9pbnRlciBFdmVudHMg5ZCM5pe26KaG55uW6byg5qCHIC8g6Kem5pG4IC8g56yU77yM5o2P5ZCI57yp5pS+44CB6ZW/5oyJ5Yig6Zmk44CB5Y+M5Ye757yW6L6R5Z2H5Li656e75Yqo5Zy65pmv6K6+6K6h77yb6aG25qCP5Zyo56qE5bGP6Ieq5Yqo5qiq5ZCR5rua5Yqo44CCCjMuICoq5Zu+5b2iICsg5L6/562+57uf5LiA5a+56LGh5qih5Z6LKirvvJrnn6nlvaIgLyDmpK3lnIbkuI7kvr/nrb7lhbHnlKjlkIzkuIDlpZfigJzpgInkuK3igJTlhavlkJHmiYvmn4TnvKnmlL7igJTmjaLoibLigJTliKDpmaTigJ3pgLvovpHvvIzlv4PmmbrotJ/mi4XmnIDlsI/jgIIKNC4gKirkuIDkvZPlvI/lr7zlh7roj5zljZUqKu+8mlBORyAvIFNWRyAvIEpTT04g5a+85Ye65LiOIEpTT04g5a+85YWl5ZCI5bm25Yiw5LiA5Liq5LiL5ouJ5YWl5Y+j77yMU1ZHIOS4uue6r+efoumHj++8iOaWh+acrOaMieihjOaLhuWIhui/mOWOn++8ie+8jOS+v+S6juS6jOasoeWKoOW3peOAggo1LiAqKuato+S6pOmBv+manOi/nue6vyArIOinhOiMg+WPryBkaWZmIOeahCBKU09OKirvvJrop4HkuIvmlrnigJzkuLrku4DkuYjmmK/ov5nkuInku7bkuovigJ3jgIIKCi0tLQoKIyMg8J+nrSDkuLrku4DkuYjmmK/ov5nkuInku7bkuovvvJrkuIDku73og73ov5sgR2l044CB6IO95L+h5Lu755qE55m95p2/CgrkuLvmtYHnmb3mnb/miormlofku7blvZPmiJDkuI3pgI/mmI7kuozov5vliLbmnaXlr7nlvoXjgIJGbG93Qm9hcmQg55qE5beu5byC5YyW5p2l6Ieq5LiA5Liq5Yik5pat77yaKirnmb3mnb/mlofku7blupTlvZPlj6/ku6Xlg4/mupDnoIHkuIDmoLfooqvnurPlhaXniYjmnKzmjqfliLbvvIzlubbkuJTlhbblh6DkvZXmraPnoa7mgKflj6/pqozor4EqKuOAguaIkeS7rOWBmuS6huS4ieS7tuS4u+a1gei9u+mHj+W3peWFt+ayoeacieS8mOWFiOWBmueahOS6i++8mgoKIyMjIDEuIOinhOiMg+OAgeWPryBkaWZmIOeahOW6j+WIl+WMlu+8iOehruWumuaAp++8iQrlkIznsbvlt6Xlhbflr7zlh7rnmoQgSlNPTiDlvoDlvoDluKbmta7ngrnlmarlo7DjgIHplK7luo/kuI3lm7rlrprjgIHlr7nosaHpobrluo/kuI3nqLPlrprvvIzkuo7mmK/mr4/mrKHkv53lrZjljbPkvr/lhoXlrrnmsqHlj5jvvIzkuZ/kvJrorqkgZ2l0IGRpZmYg5LiA54mH57qi77yM5peg5rOV5ZyoIFBSIOmHjOWuoeafpeKAnOWIsOW6leaUueS6huS7gOS5iOKAneOAgkZsb3dCb2FyZCDnmoTlr7zlh7rlr7nlnZDmoIflgZrph4/ljJbvvIhgR1JJRF9RVUFOVFVNID0gMC41YCDkuJbnlYzljZXkvY3vvInjgIHplK7mjInlm7rlrprpobrluo/ovpPlh7rjgIHlr7nosaHmjIkgYGlkYCDmjpLluo/igJTigJQqKuebuOWQjOeZveadv+W+l+WIsOWtl+iKgue6p+S4gOiHtOeahOaWh+S7tioq77yM5LuO6ICM57uZ5Ye65pyJ5oSP5LmJ55qE5beu5byC44CC5bm25o+Q5L6b5LiA5Liq5LiN5L6d6LWW5Lu75L2V5bqT55qE5YaF5a655ZOI5biM77yIYGNvbnRlbnRIYXNoKClg77yMRk5WLTFhIDMyIOS9je+8ieeUqOS6juS4gOihjOW8j+WPmOabtOajgOa1i+OAggoKIyMjIDIuIOato+S6pOOAgeiHquWKqOe7lemanOeahOi/nue6v++8iOeul+azle+8iQrlpKflpJrmlbDovbvph4/nmb3mnb/nmoTov57nur/mmK/nm7Tnur/vvIzkvJrnm7TmjqXnqb/ov4flm77lvaLjgIJGbG93Qm9hcmQg55qE6L+e57q/5Zyo55Sx4oCc6Zqc56KN54mp6L6557yY5Z2Q5qCHICsg56uv54K54oCd5p6E5oiQ55qEKirnqIDnlo/nvZHmoLwqKuS4iui3kSBBKu+8iOW4pui9rOW8r+aDqee9mu+8jOWAvuWQkeS6juabtOWwkeaKmOW8r++8ie+8jOaKiuaKmOe6v+e7leW8gOWbvuW9ou+8m+W9k+manOeijeeJqeaVsOmHj+i2hei/h+mYiOWAvO+8iGBST1VURV9NQVhfT0JTVEFDTEVTID0gMjRg77yJ5pe26YCA5YyW5Li6566A5Y2V55qE6IKY5b2i5oqY57q/77yI5bim5bey55+l5LiK6ZmQ55qE5YWc5bqV77yM5LiN54iG572R5qC877yJ44CC6L+Z5piv4oCc5bqV5bGC5Y6f55CG4oCd5bGC6Z2i55qE6IO95Yqb77yM5bm25LiU5a6M5YWo56Gu5a6a5oCn44CB6Zu25L6d6LWW44CCCgojIyMgMy4g5Y+v6aqM6K+B55qE5q2j56Gu5oCn77yI6Ieq5qOA77yJCumhtemdouWGhee9riBgd2luZG93Ll9fdC5fX3NlbGZ0ZXN0KClg77yM5pat6KiA77ya5bGP5bmV4oaU5LiW55WM5Z2Q5qCH5Y+Y5o2i5b6A6L+U5LiA6Ie044CB6KeE6IyD5YyW5bqP5YiX5YyW5bmC562J44CB5a+85Ye64oaS5a+85YWl5Zyo6KeE6IyD5YyW5bGC6Z2i5LiA6Ie044CB5biD57q/5LiN56m/6L+H5Lu75L2V6Zqc56KN5YaF6YOo44CC5a6D6IO95ZyoKirml6DmtY/op4jlmajnmoQgTm9kZSDnjq/looPot5HpgJoqKu+8iOacrOmhueebrueUqCBET00vQ2FudmFzIOahqeWBmuaXoOWktOmqjOivge+8ie+8jOWvueW6lOKAnOavj+autemdnuW5s+WHoemAu+i+keiHs+WwkeeVmeS4gOS4quWPr+i/kOihjOajgOafpeKAneeahOW3peeoi+e6quW+i+OAggoKPiDku6PnoIHpgbXlvqogW2RlYWlmeV0oaHR0cHM6Ly9naXRodWIuY29tL0VkZ2FyendqL2RlYWlmeSkg55qEIGBjb2RlLW5vLXNsb3BgIOagh+WHhu+8mumbtuS+nei1luOAgeWRveWQjeW4uOmHj++8iOmtlOazleaVsOWdh+acieWQje+8ieOAgeaXoOWPmei/sOaAp+azqOmHiuOAgeW5tumZhOWPr+i/kOihjOiHquajgOOAggoKLS0tCgojIyDwn5ugIOaKgOacr+agiAoKLSAqKuivreiogCoq77ya5Y6f55SfIEphdmFTY3JpcHTvvIhFUzIwMjDvvInvvIzkuKXmoLzmqKHlvI8KLSAqKua4suafkyoq77yaQ2FudmFzIDJE77yI6K6+5aSH5YOP57Sg5q+U6Ieq6YCC5bqU77yJCi0gKirovpPlhaUqKu+8mlBvaW50ZXIgRXZlbnRz77yI57uf5LiA6byg5qCHIC8g6Kem5pG4IC8g6Kem5o6n56yU77yJCi0gKirlrZjlgqgqKu+8mmBsb2NhbFN0b3JhZ2VgCi0gKirlr7zlh7oqKu+8muemu+WxjyBDYW52YXMg4oaSIFBOR++8m+aJi+WGmSBTVkcg5bqP5YiX5YyW77yI5q2j5Lqk5oqY57q/77yJ4oaSIOefoumHj++8myoq6KeE6IyDIEpTT04qKu+8iOmHj+WMliArIOWbuuWumumUruW6jyArIOaMiSBpZCDmjpLluo/vvInihpIg5bel56iL5paH5Lu2IC8g5Y+vIGRpZmYKLSAqKueul+azlSoq77ya5q2j5Lqk6L+e57q/6Lev55Sx77yIQSog56iA55aP572R5qC8ICsg6L2s5byv5oOp572a77yJ77yM57qv5Ye95pWw44CB56Gu5a6a5oCnCi0gKiroh6rmo4AqKu+8mmB3aW5kb3cuX190Ll9fc2VsZnRlc3QoKWDvvIxOb2RlIOaXoOWktOWPr+i3kQotICoq5p6E5bu6KirvvJrml6DvvIjnuq/pnZnmgIHmlofku7bvvIkKCi0tLQoKIyMg8J+TnCDorrjlj6/or4EKCltNSVQgTGljZW5zZV0oLi9MSUNFTlNFKSDCqSAyMDI2IEVkZ2FyendqCg==
+# FlowBoard · 单文件协作白板
+
+> 一个 **零依赖、单文件、可直接双击打开** 的 Miro 风格无限画布白板。原生 HTML + CSS + JavaScript（Canvas 2D），无任何构建步骤、无第三方库，移动端与桌面端通用。
+
+[English documentation → README.en.md](./README.en.md)
+
+---
+
+## ✨ 特性
+
+| 类别 | 能力 |
+| --- | --- |
+| **画布** | 无限画布、平移（拖拽 / 空格 / 抓手）、滚轮与双指缩放、自适应网格、小地图导航 |
+| **便签** | 一键添加、双击编辑、拖拽移动、八向手柄缩放、6 种配色 |
+| **绘图** | 自由画笔（6 色 + 自定义取色 + 粗细调节）、橡皮擦（点按 / 拖拽擦除） |
+| **图形** | 矩形 / 椭圆工具，支持描边与填充切换，与便签共用选择 / 缩放体系 |
+| **连线** | 便签之间自由连线，自动贴边锚点 + 箭头；**正交布线自动绕开图形障碍**（A* 稀疏网格 + 转弯惩罚） |
+| **撤销/重做** | 完整历史栈（120 步），`Ctrl+Z` / `Ctrl+Shift+Z`，按钮带禁用态 |
+| **导出 / 导入** | 导出 **PNG**（2× 高清）、**SVG**（矢量）、**规范 JSON**（坐标量化·键序固定·按 id 排序·可 git diff / 可哈希）；导入 JSON 恢复工程 |
+| **持久化** | 自动保存到浏览器 `localStorage`（防抖 400ms），刷新不丢失 |
+| **可验证性** | 内置 `window.__t.__selftest()`：校验坐标变换往返、序列化幂等、导出→导入一致、连线避障，可在无浏览器环境下跑通 |
+
+---
+
+## 🚀 快速开始
+
+- **方式一（最简）**：直接双击 `index.html` 用浏览器打开即可使用。
+- **方式二（在线）**：开启 GitHub Pages 后访问 `https://edgarzwj.github.io/flowboard/`。
+- 所有数据默认只保存在你本地浏览器，**不会上传任何服务器**。
+
+---
+
+## ⌨️ 快捷键
+
+| 按键 | 功能 | 按键 | 功能 |
+| --- | --- | --- | --- |
+| `V` | 选择 | `H` | 抓手平移 |
+| `N` | 便签 | `P` | 画笔 |
+| `E` | 橡皮擦 | `C` | 连线 |
+| `R` | 矩形 | `O` | 椭圆 |
+| `Space` | 临时平移 | `Delete` / `Backspace` | 删除选中 |
+| `Ctrl+Z` | 撤销 | `Ctrl+Shift+Z` / `Ctrl+Y` | 重做 |
+| 双击 | 编辑便签 | 右键 / 长按 | 删除对象 |
+
+**触控**：单指拖拽平移，双指捏合缩放，长按对象删除，双击便签编辑。
+
+---
+
+## 📁 项目结构
+
+```
+flowboard/
+├── index.html     # 全部代码（HTML+CSS+JS 单文件）
+├── README.md      # 中文文档（本文件）
+├── README.en.md   # English documentation
+├── LICENSE        # MIT License
+└── .gitignore     # 忽略令牌与本地产物
+```
+
+---
+
+## 💡 设计思路：借鉴与创新
+
+我们在动手前调研了三类成熟开源方案，吸收其优点，再针对“单文件、可移植、移动优先”做取舍与创新：
+
+**借鉴（吸收共性能力）**
+- 参考 **Excalidraw**（MIT，手绘风）：导出 PNG / SVG / JSON、撤销重做、本地优先的工作流。
+- 参考 **tldraw**（Apache-2.0）：智能连线锚点、缩放手柄、小地图导航。
+- 参考 **tiny_whiteboard**（vanilla，~293★）及 **drawme / Khushal-Me**：零依赖的便签 + 画笔 + 撤销/重做 + 下载实现，验证了“纯前端也能做完整白板”。
+
+**创新（我们的取舍与增强）**
+1. **真正单文件、零依赖**：把 Canvas 渲染、无限坐标变换、Pointer Events 统一输入、localStorage 自动存档全部塞进一个 `index.html`，可任意拷贝、离线使用，无构建无 CDN。
+2. **移动端优先**：统一 Pointer Events 同时覆盖鼠标 / 触摸 / 笔，捏合缩放、长按删除、双击编辑均为移动场景设计；顶栏在窄屏自动横向滚动。
+3. **图形 + 便签统一对象模型**：矩形 / 椭圆与便签共用同一套“选中—八向手柄缩放—换色—删除”逻辑，心智负担最小。
+4. **一体式导出菜单**：PNG / SVG / JSON 导出与 JSON 导入合并到一个下拉入口，SVG 为纯矢量（文本按行拆分还原），便于二次加工。
+5. **正交避障连线 + 规范可 diff 的 JSON**：见下方“为什么是这三件事”。
+
+---
+
+## 🧭 为什么是这三件事：一份能进 Git、能信任的白板
+
+主流白板把文件当成不透明二进制来对待。FlowBoard 的差异化来自一个判断：**白板文件应当可以像源码一样被纳入版本控制，并且其几何正确性可验证**。我们做了三件主流轻量工具没有优先做的事：
+
+### 1. 规范、可 diff 的序列化（确定性）
+同类工具导出的 JSON 往往带浮点噪声、键序不固定、对象顺序不稳定，于是每次保存即便内容没变，也会让 git diff 一片红，无法在 PR 里审查“到底改了什么”。FlowBoard 的导出对坐标做量化（`GRID_QUANTUM = 0.5` 世界单位）、键按固定顺序输出、对象按 `id` 排序——**相同白板得到字节级一致的文件**，从而给出有意义的差异。并提供一个不依赖任何库的内容哈希（`contentHash()`，FNV-1a 32 位）用于一行式变更检测。
+
+### 2. 正交、自动绕障的连线（算法）
+大多数轻量白板的连线是直线，会直接穿过图形。FlowBoard 的连线在由“障碍物边缘坐标 + 端点”构成的**稀疏网格**上跑 A*（带转弯惩罚，倾向于更少折弯），把折线绕开图形；当障碍物数量超过阈值（`ROUTE_MAX_OBSTACLES = 24`）时退化为简单的肘形折线（带已知上限的兜底，不爆网格）。这是“底层原理”层面的能力，并且完全确定性、零依赖。
+
+### 3. 可验证的正确性（自检）
+页面内置 `window.__t.__selftest()`，断言：屏幕↔世界坐标变换往返一致、规范化序列化幂等、导出→导入在规范化层面一致、布线不穿过任何障碍内部。它能在**无浏览器的 Node 环境跑通**（本项目用 DOM/Canvas 桩做无头验证），对应“每段非平凡逻辑至少留一个可运行检查”的工程纪律。
+
+> 代码遵循 [deaify](https://github.com/Edgarzwj/deaify) 的 `code-no-slop` 标准：零依赖、命名常量（魔法数均有名）、无叙述性注释、并附可运行自检。
+
+---
+
+## 🛠 技术栈
+
+- **语言**：原生 JavaScript（ES2020），严格模式
+- **渲染**：Canvas 2D（设备像素比自适应）
+- **输入**：Pointer Events（统一鼠标 / 触摸 / 触控笔）
+- **存储**：`localStorage`
+- **导出**：离屏 Canvas → PNG；手写 SVG 序列化（正交折线）→ 矢量；**规范 JSON**（量化 + 固定键序 + 按 id 排序）→ 工程文件 / 可 diff
+- **算法**：正交连线路由（A* 稀疏网格 + 转弯惩罚），纯函数、确定性
+- **自检**：`window.__t.__selftest()`，Node 无头可跑
+- **构建**：无（纯静态文件）
+
+---
+
+## 📜 许可证
+
+[MIT License](./LICENSE) © 2026 Edgarzwj
